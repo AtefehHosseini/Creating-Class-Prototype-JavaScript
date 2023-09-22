@@ -6,9 +6,9 @@ The code defines a Computer class that demonstrates basic object-oriented progra
 # Overview
 The Computer class is designed to represent a computer with properties like make, model, and price. It provides two methods:
 
-# summarise(): This method logs a summary of the computer's make, model, and price to the console.
+summarise(): This method logs a summary of the computer's make, model, and price to the console.
 
-# getPrototype(): This method logs the prototype of the current instance to the console.
+getPrototype(): This method logs the prototype of the current instance to the console.
 
 ## Usage
 To use the Computer class, follow these steps:
