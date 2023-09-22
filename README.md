@@ -22,4 +22,3 @@ computer1.summarise(); // Example output: "This Apple Macbook costs $1800."
 3. Call the getPrototype() method to log the prototype of the instance.
 javascript
 computer1.getPrototype(); // Example output:Computer {}
-You can customize this README as needed and include additional information or explanations if you wish.
